@@ -75,6 +75,7 @@ Agent Router
                    |
                    v
              Final Response
-## **Conclusion**
+```
+## Conclusion
 
 This project demonstrates how multiple AI agents can work together to build an automated and context-aware customer support system. The architecture allows different agents to specialize in specific tasks while LangGraph manages the overall workflow and agent coordination.
